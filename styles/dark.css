@@ -22,6 +22,10 @@
   --link-border-color: #F1B2CE;
 }
 
+:root.theme-dark .header_decoration {
+  display: block;
+}
+
 @media (prefers-color-scheme: dark) {
 
   :root {
@@ -37,4 +41,9 @@
     --section_title-color: #FF0070;
     --link-border-color: #F1B2CE;
   }
+
+  .header_decoration {
+    display: block;
+  }
+
 }

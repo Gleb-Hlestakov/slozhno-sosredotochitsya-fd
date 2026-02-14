@@ -123,6 +123,7 @@
   color: var(--title-decor-color, #000028);
   font-weight: bold;
   line-height: 23.4px;
+  font-size: 18px;
 }
 
 .title-decor-normal {

@@ -43,7 +43,7 @@
     --link-border-color: #353430;
   }
 
-  :root.theme-light .header_decoration {
+  .header_decoration {
     display: none;
   }
 }
